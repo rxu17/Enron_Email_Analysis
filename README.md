@@ -1,5 +1,8 @@
 # Enron Email Analysis
 
+## Data
+You can find the enron data set from [here.](https://www.cs.cmu.edu/~enron/)
+
 ## Packages and Modules
 - TextBlob
 - email.parser 
